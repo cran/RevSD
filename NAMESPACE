@@ -1,0 +1,4 @@
+importFrom("graphics", "arrows", "axis", "rect", "segments", "text")
+importFrom("stats", "sd")
+importFrom("utils", "install.packages")
+export(revsd)
